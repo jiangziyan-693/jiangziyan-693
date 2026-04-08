@@ -44,44 +44,28 @@ With 97.7% of contributions centered on commits, I prioritize creating and maint
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiangziyan-693&theme=tokyo-night" alt="Ziyan Jiang Contribution Activity Graph" />
 </div>
 
-## Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
-
-### TrueStar
-![Stars](https://img.shields.io/github/stars/jiangziyan-693/TrueStar?style=flat-square&color=58A6FF) • Python
-
-GitHub star authenticity auditor powered by GitHub Archive. No API tokens required. Zero-bias, historical-first, and bot-resistant.
-
-<img src="https://readme.u14.app/api/github/pin?userId=cxa6eecbDedFk2yVDWCqO9ncuTNeCWkH&index=0" alt="TrueStar Repository Card" width="100%" />
-
-### MamaSkill
-![Stars](https://img.shields.io/github/stars/jiangziyan-693/MamaSkill?style=flat-square&color=58A6FF) • Python
-
-A Digital Sanctuary for Preserving Memories and Reconstructing the Essence of Our Loved Ones.
-
-<img src="https://readme.u14.app/api/github/pin?userId=cxa6eecbDedFk2yVDWCqO9ncuTNeCWkH&index=1" alt="MamaSkill Repository Card" width="100%" />
-
+  <a href="https://github.com/ZJU-LLMs/OpenStory">
+    <img src="https://opengraph.githubassets.com/1/ZJU-LLMs/OpenStory" alt="OpenStory" width="48%" />
+  </a>
 </div>
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://readme.u14.app/api/github/trophies?userId=cxa6eecbDedFk2yVDWCqO9ncuTNeCWkH" alt="Ziyan Jiang GitHub Trophies" width="100%" />
-</div>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiangziyan-693/jiangziyan-693/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiangziyan-693/jiangziyan-693/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jiangziyan-693/jiangziyan-693/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiangziyan-693&label=Profile%20Views&color=2DF8C5&style=flat" alt="Profile Views" />
-</div>
+  
+--- 
+  
+## 🏆 GitHub Trophies 
+  
+<div align="center"> 
+  <img src="https://readme.u14.app/api/github/trophies?userId=cxa6eecbDedFk2yVDWCqO9ncuTNeCWkH" alt="Ziyan Jiang GitHub Trophies" width="100%" /> 
+</div> 
+  
+--- 
+  
+<div align="center"> 
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiangziyan-693/jiangziyan-693/output/github-contribution-grid-snake-dark.svg"> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiangziyan-693/jiangziyan-693/output/github-contribution-grid-snake.svg"> 
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jiangziyan-693/jiangziyan-693/output/github-contribution-grid-snake.svg"> 
+  </picture> 
+</div> 
